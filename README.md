@@ -32,6 +32,6 @@ int main(){
    	  if(pd[i]==0)printf("%d ",i);
    }
    
-   
+    int a;
     return 0;
 }
